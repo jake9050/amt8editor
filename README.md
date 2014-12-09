@@ -16,9 +16,8 @@ Setup:
 
 Select AMT0(all) as midi-output device, input can be any of the 8 ports but one has to be selected for the updating of the panel to work.
 
-ps: I was not able to test this panel on the Unitor because i do not own one, but the messages should be the same as they share the same driver/editing software, so i am 99% sure it will work for that device aswell.
+ps: I was not able to test this panel on the Unitor because i do not own one, but the messages should be the same as they share the same driver/editing software. The only difference in these models is more capabilities in the Unitor, so i am 99% sure this will work for that device aswell. Should you decide to try this out with a Unitor please let me know how it went (and make a dump of your settings before tinkering)
 
-Might work for the Unitor because they use the same drivers, but not tested due to not owning one.
 
 Big thank you to Roman Kubiak, the developer of the awesome, open-source and cross-platform Ctrlr software!
 http://ctrlr.org/ for more info
