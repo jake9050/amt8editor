@@ -5,7 +5,7 @@ Ctrlr-based Editor for the AMT-8 midi interface - communicates using over midi u
 
 This panel was made to edit the 32 standalone patches of the Emagic AMT8 midi-interface. These patches are stored inside the unit and are active whenever the interface is not running off a computer.
 
-The panel reflects the state of the selected preset, and features an “initialise” button as found in the original Sounddiver-based editor, routing all inputs to all outputs except its own’s.
+The panel reflects the state of the selected preset, and features an “initialise” button, routing all inputs to all outputs except its own’s.
 
 The labels displaying the port names can be edited to reflect your setup, so that instead of in/out 1… in/out 8 you can make them display the names of the devices connected to those ports. Just double-click on the name label and name it as you wish.
 
